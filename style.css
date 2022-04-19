@@ -80,7 +80,7 @@ margin: 0.7em 1em;
 }
 
 .right {
-margin: -0.5em --0.8em;
+margin: -0.5em -0.8em;
 }
 
 .label-input {
@@ -97,4 +97,7 @@ border-radius: 5px;
 }
 button {
 border: none;
+}
+#pie{
+  background-color: antiquewhite;
 }
